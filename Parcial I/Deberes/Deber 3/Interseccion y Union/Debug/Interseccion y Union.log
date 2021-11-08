@@ -1,0 +1,18 @@
+﻿  Operaciones.cpp
+  Main.cpp
+C:\Users\Admin\Documents\Myckel Espe\Oct 25\Estructura\Interseccion y Union\Interseccion y Union\Operaciones.cpp(11,1): error C3867: 'Arreglo<int>::getArreglo': sintaxis no estándar; utilice '&' para crear un puntero al miembro
+C:\Users\Admin\Documents\Myckel Espe\Oct 25\Estructura\Interseccion y Union\Interseccion y Union\Operaciones.cpp(6): message : al compilar la función del miembro clase plantilla "M Operaciones<M>::Interseccion(Arreglo<int>,Arreglo<int>,M,M)"
+          with
+          [
+              M=int
+          ]
+C:\Users\Admin\Documents\Myckel Espe\Oct 25\Estructura\Interseccion y Union\Interseccion y Union\Main.cpp(14): message : Vea la referencia a la creación de una instancia de la función plantilla "M Operaciones<M>::Interseccion(Arreglo<int>,Arreglo<int>,M,M)" que se está compilando
+          with
+          [
+              M=int
+          ]
+C:\Users\Admin\Documents\Myckel Espe\Oct 25\Estructura\Interseccion y Union\Interseccion y Union\Main.cpp(9): message : Vea la referencia a la creación de una instancia de clase plantilla "Operaciones<int>" que se está compilando
+C:\Users\Admin\Documents\Myckel Espe\Oct 25\Estructura\Interseccion y Union\Interseccion y Union\Operaciones.cpp(11,1): error C2109: el subíndice requiere una matriz o tipo de puntero
+C:\Users\Admin\Documents\Myckel Espe\Oct 25\Estructura\Interseccion y Union\Interseccion y Union\Operaciones.cpp(12,1): error C3867: 'Arreglo<int>::getArreglo': sintaxis no estándar; utilice '&' para crear un puntero al miembro
+C:\Users\Admin\Documents\Myckel Espe\Oct 25\Estructura\Interseccion y Union\Interseccion y Union\Operaciones.cpp(12,1): error C2109: el subíndice requiere una matriz o tipo de puntero
+  Generando código...
