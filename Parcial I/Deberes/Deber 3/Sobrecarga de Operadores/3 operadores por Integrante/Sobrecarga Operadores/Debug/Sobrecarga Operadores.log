@@ -1,0 +1,9 @@
+﻿  Data.cpp
+  MainMenu.cpp
+C:\Users\Admin\Documents\Myckel Espe\Oct 25\Estructura\Sobrecarga Operadores\Sobrecarga Operadores\MainMenu.cpp(30,15): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\Admin\Documents\Myckel Espe\Oct 25\Estructura\Sobrecarga Operadores\Sobrecarga Operadores\MainMenu.cpp(34,15): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+  Operations.cpp
+  Validation.cpp
+  Generando código...
+C:\Users\Admin\Documents\Myckel Espe\Oct 25\Estructura\Sobrecarga Operadores\Sobrecarga Operadores\Validation.cpp(30): warning C4172: devolución de dirección de la variable local o temporal: dato
+  Sobrecarga Operadores.vcxproj -> C:\Users\Admin\Documents\Myckel Espe\Oct 25\Estructura\Sobrecarga Operadores\Debug\Sobrecarga Operadores.exe
