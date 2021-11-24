@@ -1,5 +1,5 @@
 #include <iostream>
-
+#include "Menu.h"
 /*	UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
 	DEPARTAMENTO DE CIENCIAS DE LA COMPUTACION
     INGENIERA DE SOFTWARE
@@ -19,6 +19,6 @@
 
 
 int main(int argc, char** argv) {
-	
+	Menu();
 	return 0;
 }
