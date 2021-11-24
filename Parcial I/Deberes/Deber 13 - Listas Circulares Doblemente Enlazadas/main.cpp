@@ -11,7 +11,6 @@
 				STEVEN ACHIG  - sjachig1@espe.edu.ec
     			ALEXANDER TOCA  - tatoca@espe.edu.ec
     			ALISSON CAIZA  - alcaiza3@espe.edu.ec
-				
 	
 	ENUNCIADO: CODIGO LISTA CIRCULAR DOBLEMENTE ENLAZADA				
 				
@@ -20,5 +19,6 @@
 
 
 int main(int argc, char** argv) {
+	
 	return 0;
 }
