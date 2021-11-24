@@ -14,7 +14,7 @@
 	FECHA DE CREACION:        22-11-2021
 	FECHA DE MODIFICACION:    24-11-2021*/
 
-#pragma once
+
 #include <iostream>
 class Nodo {
     private:

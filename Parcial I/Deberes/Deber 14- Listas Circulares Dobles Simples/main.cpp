@@ -15,8 +15,6 @@
 	FECHA DE MODIFICACION:    24-11-2021*/
 
 #include<iostream>
-#include "Nodo.cpp"
-#include "ListaCircular.h"
 #include "ListaCircular.cpp"
 
 using namespace std; 
