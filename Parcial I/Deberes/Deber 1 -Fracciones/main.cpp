@@ -6,6 +6,9 @@
 				RICARDO GRIJALVA - rsgrijalva@espe.edu.ec
 				CARLOS CAMPOVERDE - cdcampoverde@espe.edu.ec 
 				LIZBETH RECALDE - klcajas1@espe.edu.ec
+				STEVEN ACHIG  - sjachig1@espe.edu.ec
+    			ALEXANDER TOCA  - tatoca@espe.edu.ec
+    			ALISSON CAIZA  - alcaiza3@espe.edu.ec
 				
 	
 	ENUNCIADO: REALIZAR UN PROGRAMA QUE CALCULE LA OPERACION ESPECIFICADA EN CLASE Y EL MODELO REALIZADO LLEVARLO A CODIGO.				
