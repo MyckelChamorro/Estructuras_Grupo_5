@@ -4,7 +4,8 @@
 
 <Workspace>
 	<Local Expanded="Yes">
-		<Model Expanded="Yes" ID="{FFF9A4F4-50A2-43CF-9724-DF3C1B9178C7}" Name="Class Diagram_1" Selected="Yes" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="proyecto_Class_Diagram.oom"/>
+		<Model Expanded="Yes" ID="{55F6703D-F71D-47B0-9C82-CB2C7D5676F6}" Loaded="No" Name="Class Diagram_1" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Modelo.oom"/>
+		<Model Expanded="Yes" ID="{55F6703D-F71D-47B0-9C82-CB2C7D5676F6}" Name="Class Diagram_1" Selected="Yes" Type="{18112060-1A4B-11D1-83D9-444553540000}" URL="Modelo.oom"/>
 	</Local>
 	<BrowserModule Name="Repository"/>
 </Workspace>
