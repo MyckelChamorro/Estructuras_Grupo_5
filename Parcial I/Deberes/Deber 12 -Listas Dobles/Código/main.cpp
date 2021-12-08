@@ -26,7 +26,7 @@ int main(int argc, char** argv) {
 		printf("Numero %d-> ",i+1);
 		scanf("%d",&num);
 		lst.insertar(num);
-		num=0;	
+		num=0;
 	}
 	printf("\n");
 	lst.imprimirLista();
