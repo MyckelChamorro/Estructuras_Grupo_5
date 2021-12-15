@@ -2,7 +2,21 @@
 #include <vector>
 #include <algorithm>
 
-/* run this program using the console pauser or add your own getch, system("pause") or input loop */
+/*	UNIVERSIDAD DE LAS FUERZAS ARMADAS ESPE
+	DEPARTAMENTO DE CIENCIAS DE LA COMPUTACION
+	INGENIERA DE SOFTWARE
+
+	AUTORES:    MYCKEL CHAMORRO - mschamorro@espe.edu.ec ( LIDER )
+				RICARDO GRIJALVA - rsgrijalva@espe.edu.ec
+				ALISSON CAIZA - alcaiza3@espe.edu.ec
+				LIZBETH RECALDE - klcajas1@espe.edu.ec
+				STEVE ACHIG - sjachig1@espe.edu.ec
+
+
+	ENUNCIADO: Uso De Funciones Lambda o Anonimas
+
+	FECHA DE CREACION:        10-12-2021
+	FECHA DE MODIFICACION:    15-12-2021*/
 
 using namespace std;
 

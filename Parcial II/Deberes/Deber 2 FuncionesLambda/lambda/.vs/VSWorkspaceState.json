@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\lambda",
+    "\\x64\\Debug"
   ],
-  "SelectedNode": "\\lambda.sln",
+  "SelectedNode": "\\lambda\\Source.cpp",
   "PreviewInSolutionExplorer": false
 }
