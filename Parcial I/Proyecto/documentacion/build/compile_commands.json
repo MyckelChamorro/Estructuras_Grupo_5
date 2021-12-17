@@ -1,0 +1,112 @@
+[
+{
+  "directory": "C:/Users/Dell/Desktop/Proyecto_Estructuras/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -o CMakeFiles/Proyecto_Estructuras.dir/main.cpp.obj -c C:/Users/Dell/Desktop/Proyecto_Estructuras/main.cpp",
+  "file": "C:/Users/Dell/Desktop/Proyecto_Estructuras/main.cpp"
+},
+{
+  "directory": "C:/Users/Dell/Desktop/Proyecto_Estructuras/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -o CMakeFiles/Proyecto_Estructuras.dir/Fecha.cpp.obj -c C:/Users/Dell/Desktop/Proyecto_Estructuras/Fecha.cpp",
+  "file": "C:/Users/Dell/Desktop/Proyecto_Estructuras/Fecha.cpp"
+},
+{
+  "directory": "C:/Users/Dell/Desktop/Proyecto_Estructuras/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -o CMakeFiles/Proyecto_Estructuras.dir/OperacionesFecha.cpp.obj -c C:/Users/Dell/Desktop/Proyecto_Estructuras/OperacionesFecha.cpp",
+  "file": "C:/Users/Dell/Desktop/Proyecto_Estructuras/OperacionesFecha.cpp"
+},
+{
+  "directory": "C:/Users/Dell/Desktop/Proyecto_Estructuras/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -o CMakeFiles/Proyecto_Estructuras.dir/Persona.cpp.obj -c C:/Users/Dell/Desktop/Proyecto_Estructuras/Persona.cpp",
+  "file": "C:/Users/Dell/Desktop/Proyecto_Estructuras/Persona.cpp"
+},
+{
+  "directory": "C:/Users/Dell/Desktop/Proyecto_Estructuras/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -o CMakeFiles/Proyecto_Estructuras.dir/Nodo.cpp.obj -c C:/Users/Dell/Desktop/Proyecto_Estructuras/Nodo.cpp",
+  "file": "C:/Users/Dell/Desktop/Proyecto_Estructuras/Nodo.cpp"
+},
+{
+  "directory": "C:/Users/Dell/Desktop/Proyecto_Estructuras/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -o CMakeFiles/Proyecto_Estructuras.dir/ListadoPersonas.cpp.obj -c C:/Users/Dell/Desktop/Proyecto_Estructuras/ListadoPersonas.cpp",
+  "file": "C:/Users/Dell/Desktop/Proyecto_Estructuras/ListadoPersonas.cpp"
+},
+{
+  "directory": "C:/Users/Dell/Desktop/Proyecto_Estructuras/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -o CMakeFiles/Proyecto_Estructuras.dir/Lista.cpp.obj -c C:/Users/Dell/Desktop/Proyecto_Estructuras/Lista.cpp",
+  "file": "C:/Users/Dell/Desktop/Proyecto_Estructuras/Lista.cpp"
+},
+{
+  "directory": "C:/Users/Dell/Desktop/Proyecto_Estructuras/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -o CMakeFiles/Proyecto_Estructuras.dir/OperacionesPersona.cpp.obj -c C:/Users/Dell/Desktop/Proyecto_Estructuras/OperacionesPersona.cpp",
+  "file": "C:/Users/Dell/Desktop/Proyecto_Estructuras/OperacionesPersona.cpp"
+},
+{
+  "directory": "C:/Users/Dell/Desktop/Proyecto_Estructuras/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -o CMakeFiles/Proyecto_Estructuras.dir/Validar.cpp.obj -c C:/Users/Dell/Desktop/Proyecto_Estructuras/Validar.cpp",
+  "file": "C:/Users/Dell/Desktop/Proyecto_Estructuras/Validar.cpp"
+},
+{
+  "directory": "C:/Users/Dell/Desktop/Proyecto_Estructuras/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -o CMakeFiles/Proyecto_Estructuras.dir/Menu.cpp.obj -c C:/Users/Dell/Desktop/Proyecto_Estructuras/Menu.cpp",
+  "file": "C:/Users/Dell/Desktop/Proyecto_Estructuras/Menu.cpp"
+},
+{
+  "directory": "C:/Users/Dell/Desktop/Proyecto_Estructuras/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -o CMakeFiles/Proyecto_Estructuras.dir/Materia.cpp.obj -c C:/Users/Dell/Desktop/Proyecto_Estructuras/Materia.cpp",
+  "file": "C:/Users/Dell/Desktop/Proyecto_Estructuras/Materia.cpp"
+},
+{
+  "directory": "C:/Users/Dell/Desktop/Proyecto_Estructuras/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -o CMakeFiles/Proyecto_Estructuras.dir/Profesor.cpp.obj -c C:/Users/Dell/Desktop/Proyecto_Estructuras/Profesor.cpp",
+  "file": "C:/Users/Dell/Desktop/Proyecto_Estructuras/Profesor.cpp"
+},
+{
+  "directory": "C:/Users/Dell/Desktop/Proyecto_Estructuras/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -o CMakeFiles/Proyecto_Estructuras.dir/ListadoMaterias.cpp.obj -c C:/Users/Dell/Desktop/Proyecto_Estructuras/ListadoMaterias.cpp",
+  "file": "C:/Users/Dell/Desktop/Proyecto_Estructuras/ListadoMaterias.cpp"
+},
+{
+  "directory": "C:/Users/Dell/Desktop/Proyecto_Estructuras/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -o CMakeFiles/Proyecto_Estructuras.dir/NodoM.cpp.obj -c C:/Users/Dell/Desktop/Proyecto_Estructuras/NodoM.cpp",
+  "file": "C:/Users/Dell/Desktop/Proyecto_Estructuras/NodoM.cpp"
+},
+{
+  "directory": "C:/Users/Dell/Desktop/Proyecto_Estructuras/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -o CMakeFiles/Proyecto_Estructuras.dir/ListaM.cpp.obj -c C:/Users/Dell/Desktop/Proyecto_Estructuras/ListaM.cpp",
+  "file": "C:/Users/Dell/Desktop/Proyecto_Estructuras/ListaM.cpp"
+},
+{
+  "directory": "C:/Users/Dell/Desktop/Proyecto_Estructuras/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -o CMakeFiles/Proyecto_Estructuras.dir/Registro.cpp.obj -c C:/Users/Dell/Desktop/Proyecto_Estructuras/Registro.cpp",
+  "file": "C:/Users/Dell/Desktop/Proyecto_Estructuras/Registro.cpp"
+},
+{
+  "directory": "C:/Users/Dell/Desktop/Proyecto_Estructuras/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -o CMakeFiles/Proyecto_Estructuras.dir/ListaR.cpp.obj -c C:/Users/Dell/Desktop/Proyecto_Estructuras/ListaR.cpp",
+  "file": "C:/Users/Dell/Desktop/Proyecto_Estructuras/ListaR.cpp"
+},
+{
+  "directory": "C:/Users/Dell/Desktop/Proyecto_Estructuras/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -o CMakeFiles/Proyecto_Estructuras.dir/ListadoRegistro.cpp.obj -c C:/Users/Dell/Desktop/Proyecto_Estructuras/ListadoRegistro.cpp",
+  "file": "C:/Users/Dell/Desktop/Proyecto_Estructuras/ListadoRegistro.cpp"
+},
+{
+  "directory": "C:/Users/Dell/Desktop/Proyecto_Estructuras/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -o CMakeFiles/Proyecto_Estructuras.dir/Notas.cpp.obj -c C:/Users/Dell/Desktop/Proyecto_Estructuras/Notas.cpp",
+  "file": "C:/Users/Dell/Desktop/Proyecto_Estructuras/Notas.cpp"
+},
+{
+  "directory": "C:/Users/Dell/Desktop/Proyecto_Estructuras/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -o CMakeFiles/Proyecto_Estructuras.dir/NodoNotas.cpp.obj -c C:/Users/Dell/Desktop/Proyecto_Estructuras/NodoNotas.cpp",
+  "file": "C:/Users/Dell/Desktop/Proyecto_Estructuras/NodoNotas.cpp"
+},
+{
+  "directory": "C:/Users/Dell/Desktop/Proyecto_Estructuras/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -o CMakeFiles/Proyecto_Estructuras.dir/ListaNotas.cpp.obj -c C:/Users/Dell/Desktop/Proyecto_Estructuras/ListaNotas.cpp",
+  "file": "C:/Users/Dell/Desktop/Proyecto_Estructuras/ListaNotas.cpp"
+},
+{
+  "directory": "C:/Users/Dell/Desktop/Proyecto_Estructuras/build",
+  "command": "C:/MinGW/bin/g++.exe   -g -o CMakeFiles/Proyecto_Estructuras.dir/ListadoNotas.cpp.obj -c C:/Users/Dell/Desktop/Proyecto_Estructuras/ListadoNotas.cpp",
+  "file": "C:/Users/Dell/Desktop/Proyecto_Estructuras/ListadoNotas.cpp"
+}
+]
