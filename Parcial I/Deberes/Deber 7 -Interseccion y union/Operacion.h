@@ -3,6 +3,8 @@
     INGENIERA DE SOFTWARE
                 
 	AUTORES:    MYCKEL CHAMORRO - mschamorro@espe.edu.ec ( LIDER )
+				JOSSUE ACHIG    -  sjachig1@espe.edu.ec
+				ALISSON CAIZA - alcaiza3@eespe.edu.ec
 				RICARDO GRIJALVA - rsgrijalva@espe.edu.ec
 				CARLOS CAMPOVERDE - cdcampoverde@espe.edu.ec 
 				LIZBETH RECALDE - klcajas1@espe.edu.ec
