@@ -17,7 +17,7 @@
 	ENUNCIADO: Uso de Algoritmos de Busqueda por distrbucion.
 
 	FECHA DE CREACION:        19-12-2021
-	FECHA DE MODIFICACION:    19-12-2021*/
+	FECHA DE MODIFICACION:    20-12-2021*/
 
 
 int main(int argc, char** argv) {
