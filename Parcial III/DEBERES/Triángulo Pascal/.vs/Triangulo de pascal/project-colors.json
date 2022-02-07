@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "190edacb-cb16-4cbb-8800-0956d0af655c": {
+      "ProjectGuid": "190edacb-cb16-4cbb-8800-0956d0af655c",
+      "DisplayName": "Pascal Triangle",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
